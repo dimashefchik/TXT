@@ -1,0 +1,4 @@
+name - Dima
+Age - 29
+Pat - 0
+Sallary - 350
