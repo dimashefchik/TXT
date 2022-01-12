@@ -1,0 +1,7 @@
+1) Terminal
+2) Git_hub
+3) Postman
+4) SQL
+5) JSON
+6 XML
+
