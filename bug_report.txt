@@ -1,1 +1,9 @@
-
+"id" - 01
+"summury" - Can't open section 'new' on www.shop.com
+"Steps to reproduce" 
+      1. Open www.shop.com
+      2. Open section 'new'
+"Actual result" - Eror 500
+"Expected result" - section 'new' is open
+"Severity" - Critical
+"Priority" - ASAP
